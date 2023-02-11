@@ -19,7 +19,7 @@ I am Javier Hernandez-Ortega, PhD in Computer Science and Electronic Engineering
     
 - 👯 I’m actively looking to collaborate on AI projects.
 - 💬 Author of <a href="https://github.com/uam-biometrics/FaceQnet" rel="nofollow">FaceQnet</a>, <a href="https://github.com/uam-biometrics/FaceQgen" rel="nofollow">FaceQgen</a> and <a href="https://github.com/uam-biometrics/DeepFakesON-Phys" rel="nofollow">DeepFakesON-Phys</a> repositories.
-- 📫 How to reach me: javier.hernandezo@uam.es
+- 📫 How to reach me: javier.hernandezo@hotmail.com
 - <a href="https://www.linkedin.com/in/javierhernandezortega/" rel="nofollow">LinkedIn</a>.
 - <a href="https://scholar.google.es/citations?user=2Cz4gPYAAAAJ&hl=es" rel="nofollow">Google Scholar</a>.
 
